@@ -26,7 +26,7 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    Fill in your answer here no i dont want to what ull do huh
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
